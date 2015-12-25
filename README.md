@@ -42,7 +42,7 @@ var bundles = {
     }
   },
   "view-bundle": {
-    "skip" : true
+    "skip" : true,
     "htmlimport": true,                 // Set it to `true` for html import based view bundle.
     "includes": "dist/*.html",
     "options": {
